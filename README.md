@@ -11,10 +11,7 @@ I am a Motivated Full Stack Engineer soon to be a graduate from Hive Helsinki co
 ### ⚡ One line that describes me best:
 An ambitious person who is passionate about music, technology and law, seeking to apply these skills in software development.
 
-### 📫 How to reach me?
-- [My personal website](http://balbaugh.com)
-- [LinkedIn](https://www.linkedin.com/in/balbaugh/)
-- [Twitter](https://twitter.com/balbaugh) 
+***
 
 ### Skills:
 - Web Development using PHP, React, JavaScript, HTML, Node, PostgreSQL / SQL, 
@@ -29,5 +26,12 @@ An ambitious person who is passionate about music, technology and law, seeking t
 - Music
 - Mycology
 - Sailing
+
+***
+
+### 📫 How to reach me?
+- [My personal website](http://balbaugh.com)
+- [LinkedIn](https://www.linkedin.com/in/balbaugh/)
+- [Twitter](https://twitter.com/balbaugh) 
 
 ***
