@@ -13,6 +13,11 @@ An ambitious person who is passionate about music, technology and law, seeking t
 
 ***
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
 ### Skills:
 - Web Development using PHP, React, JavaScript, HTML, Node, PostgreSQL, SQL
 - C Language
@@ -30,8 +35,9 @@ An ambitious person who is passionate about music, technology and law, seeking t
 ***
 
 ### 📫 How to reach me?
-- [My personal website](http://balbaugh.com)
-- [LinkedIn](https://www.linkedin.com/in/balbaugh/)
-- [Twitter](https://twitter.com/balbaugh) 
+- LinkedIn: [@balbaugh](https://www.linkedin.com/in/balbaugh/)
+- Website: [balbaugh.com](http://balbaugh.com)
+- Email: [balbaugh@gmail.com](mailto:balbaugh@gmail.com)
+- Twitter: [@balbaugh](https://twitter.com/balbaugh)
 
 ***
