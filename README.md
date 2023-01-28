@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**balbaugh/balbaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Motivated Full Stack Engineer soon to be a graduate from Hive Helsinki coding school and licensed attorney with a background in intellectual property law.
 
-Here are some ideas to get you started:
+### 🌱 What do I do and What have I done?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently attending Hive Helsinki as a Full Stack Engineering Student.
+- Hands-on web development experience that includes building an Instagram clone web application with PHP and MySQL, and a Tinder clone web application with React, Node, PostgreSQL, and Docker.
+- Completed a rebuild of the standard C library from scratch.
+
+### ⚡ One line that describes me best:
+An ambitious person who is passionate about music, technology and law, seeking to apply these skills in software development.
+
+### 📫 How to reach me?
+- [My personal website](http://balbaugh.com)
+- [LinkedIn](https://www.linkedin.com/in/balbaugh/)
+- [Twitter](https://twitter.com/balbaugh) 
+
+### Skills:
+- Web Development using PHP, React, JavaScript, HTML, Node, PostgreSQL / SQL, 
+- C Language
+- Dev Tools VS Code / IntelliJ Idea / PHP Storm / Data Grip / VIM / Docker 
+- Intellectual Property Law / Contract Law
+- Legal research and development
+
+### Hobbies:
+- Cooking
+- Fermentation
+- Music
+- Mycology
+- Sailing
+
+***
