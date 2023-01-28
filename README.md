@@ -14,9 +14,9 @@ An ambitious person who is passionate about music, technology and law, seeking t
 ***
 
 ### Skills:
-- Web Development using PHP, React, JavaScript, HTML, Node, PostgreSQL / SQL, 
+- Web Development using PHP, React, JavaScript, HTML, Node, PostgreSQL, SQL
 - C Language
-- Dev Tools VS Code / IntelliJ Idea / PHP Storm / Data Grip / VIM / Docker 
+- Dev Tools : VS Code / IntelliJ Idea / PHP Storm / Data Grip / VIM / Docker 
 - Intellectual Property Law / Contract Law
 - Legal research and development
 
