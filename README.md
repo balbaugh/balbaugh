@@ -3,7 +3,7 @@
 ### 🌱 What do I do and What have I done?
 
 - Recent graduate of Hive Helsinki / 42 School as a Full Stack Engineering Student.
-- Hands-on web development experience that includes building an Instagram clone using PHP and MySQL, a Tinder clone using React, Node, PostgreSQL, and Docker, and a Netflix clone using torrent protocol.
+- Hands-on web development experience that includes building an Instagram clone using PHP and MySQL, a Tinder clone using React, Node, PostgreSQL, and Docker, and a Netflix clone utilising torrent protocol.
 - Completed a rebuild of the standard C library from scratch.
 
 ### ⚡ One line that describes me best:
