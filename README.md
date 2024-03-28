@@ -1,34 +1,34 @@
-# Hei! I’m Brian Albaugh, a Full Stack Engineer and Licensed Attorney living in Helsinki, Finland.
+# Hei! I’m Brian Albaugh, a Full Stack Engineer and Licensed Attorney living in Porvoo, Finland.
 
 ### 🌱 What do I do and What have I done?
 
-- Recent graduate of Hive Helsinki / 42 School as a Full Stack Engineering Student.
-- Hands-on web development experience that includes building an Instagram clone using PHP and MySQL, a Tinder clone using React, Node, PostgreSQL, and Docker, and a Netflix clone utilising torrent protocol.
-- Completed a rebuild of the standard C library from scratch.
+- Currently working as a Software Developer and Legal Counsel.
+- Graduate of Hive Helsinki / 42 School as a Full Stack Engineering Student.
+
 
 ### ⚡ One line that describes me best:
-An ambitious person who is passionate about music, technology and law, seeking to apply these skills in software development.
+An ambitious person who is passionate about technology and law, seeking to apply these skills in world of technology.
 
 ***
 
 <details>
 <summary>
-  More stuff about me
+  More About Me
 </summary>
 
 ### Skills:
-- Web Development using PHP, React, JavaScript, HTML, Node, PostgreSQL, SQL
+- Web Development using React, Next.js, Typescript, JavaScript, PHP, HTML, Node, GraphQL, Prisma, PostgreSQL, SQL
 - C Language
-- Dev Tools : VS Code / IntelliJ Idea / PHP Storm / Data Grip / VIM / Docker 
 - Intellectual Property Law / Contract Law
-- Legal research and development
+- Legal Research and Development
 
 ### Hobbies:
-- Cooking
-- Fermentation
-- Music
-- Mycology
 - Sailing
+- Pinball
+- Mycology
+- Fermentation
+- Cooking
+- Music
 
 ***
 
